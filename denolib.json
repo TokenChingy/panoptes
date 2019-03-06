@@ -1,0 +1,6 @@
+{
+  "name": "panoptes",
+  "author": "TokenChingy",
+  "keywords": ["proxy", "watcher"],
+  "entry": "mod.ts"
+}
