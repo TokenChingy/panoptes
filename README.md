@@ -18,10 +18,14 @@
 
 ## Usage
 
+```ts
+import { watch } from 'https://deno.land/x/panoptes/mod.ts';
+```
+
 A simple example of how to use Panoptes's `watch()`.
 
 ```ts
-import { watch } from '../panoptes/mod.ts';
+import { watch } from 'https://deno.land/x/panoptes/mod.ts';
 
 // Example interface for the base object.
 interface BaseObjectStruct {
