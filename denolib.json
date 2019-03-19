@@ -1,6 +1,6 @@
 {
   "name": "panoptes",
-  "author": "TokenChingy",
+  "author": "Jason Zi Feng Lei",
   "keywords": ["proxy", "watcher"],
   "entry": "mod.ts"
 }
