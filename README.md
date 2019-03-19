@@ -2,7 +2,7 @@
 
 > A simple array and object watcher function for Deno.
 
-[![DenoLib](https://denolib.com/badge?scope=tokenchingy&repo=panoptes&style=flat-square)](https://denolib.com)
+[![DenoLib](https://denolib.com/badge?scope=tokenchingy&repo=panoptes)](https://denolib.com)
 [![Build Status](https://travis-ci.com/TokenChingy/panoptes.svg?branch=master)](https://travis-ci.com/TokenChingy/panoptes)
 
 ## Table of Contents
